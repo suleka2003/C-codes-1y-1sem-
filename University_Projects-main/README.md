@@ -1,4 +1,3 @@
-# University_Projects
-University Of Vavuniya
-
-Created by Nethsara Rahiru
+# c++ codes 
+# University of Vavuniya
+# Created by Suleka Dissanayake
