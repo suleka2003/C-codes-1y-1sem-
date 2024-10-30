@@ -35,4 +35,5 @@ int main()
     cout<<"The char is    :"<<d<<endl;
     cout<<"The string is  :"<<e<<endl;
     cout<<"The bool is    :"<<f<<endl;
+    return 0;
 }
