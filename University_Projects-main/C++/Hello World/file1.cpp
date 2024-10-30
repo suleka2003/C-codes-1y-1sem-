@@ -7,4 +7,5 @@ int main()
     cout<<"Hello World";
     cin>>x;
     cout<<x;
+    return 0 ;
 }
