@@ -9,4 +9,5 @@ int main()
     cin>>num;
     cout<<"The squre root of that number is   : "<<sqrt(num)<<endl;
     cout<<"The rounded root of that number is : "<<round(num);
+    return 0;
 }
