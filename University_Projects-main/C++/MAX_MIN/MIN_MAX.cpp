@@ -12,5 +12,6 @@ int main()
 
     cout<<endl<<"The MIN is  : "<<min(a, b);
     cout<< endl<<"The MAX is : "<<max(a, b);
+    return 0 ;
 
 }
