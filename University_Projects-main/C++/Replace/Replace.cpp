@@ -8,4 +8,5 @@ int main()
     getline(cin, text);
     text[0]='Q';
     cout<<text;
+    return 0;
 }
