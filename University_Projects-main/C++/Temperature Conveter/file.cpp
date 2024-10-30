@@ -13,4 +13,5 @@ int main()
     cout<<"Please input the temperature in F"<<endl;
     cin>>f;
     cout<<"The temperature in "<<(f-32)*5/9<<"C"<<endl;
+    return 0;
 }
