@@ -13,4 +13,5 @@ int main()
 
     cout<<fn + " " + ln<<endl;
     cout<<fn.append(ln)<<endl;
+    return 0;
 }
