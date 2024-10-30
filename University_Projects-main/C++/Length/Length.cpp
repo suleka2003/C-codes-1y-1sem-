@@ -7,4 +7,5 @@ int main()
     cout<<"Please enter a text : ";
     getline(cin, text);
     cout<<"There is "<<text.length()<<" letters in the text";
+    return 0;
 }
